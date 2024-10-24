@@ -1,0 +1,29 @@
+'''
+These escape characters are used for many uses and they are many types.
+Escape Sequence: aphostrophy
+adds a aphostrophy between text
+
+Escape Sequence: \\
+adds a backslash for text
+
+Escape Sequence: \n
+starts the text from new line
+
+Escape Sequence: \r
+return to next line
+
+Escape Sequence: \t
+adds a tab space
+
+Escape Sequence: \ooo
+octal value to string
+
+Escape Sequence: \xhh
+hex value to string
+
+Escape Sequence: \f
+Meaning: Form feed (new page in printing contexts).
+ASCII Value: 12 (in decimal).
+Effect in Output: It does not produce visible output in most modern applications (like consoles or text files) 
+but is used in some systems or printers to indicate a page break.
+'''
