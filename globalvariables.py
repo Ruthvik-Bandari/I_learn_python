@@ -4,7 +4,7 @@ print ("There is a student named ", x)
 
 #Now lets create a function and initiate a value to x inside function 
 def myfunc():
-    x = "Boo"
+    x = "Harshi"
     print("That student used to have a friend nick-named", x)
 myfunc()
 
