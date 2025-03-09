@@ -1,5 +1,5 @@
 # Creating a list
-list1 = ["Ruthvik", "Premdeep", "Jeevan", "Abhiram"]
+list1 = ["Ruthvik", "Harshi", "Srikar", "Harsha"]
 print (list1)
 
 #list allows duplications
@@ -7,7 +7,7 @@ print (list1)
 list2 = ["Bmw", 10000000, "black color", "Bmw", "True"]
 
 #list is changeable after creation
-list1 = ["Ruthvik", "Premdeep", "Jeevan", "Abhiram", "Sandeep"]
+list1 = ["Ruthvik", "Harshi", "Srikar", "Harsha", "Lucky"]
 print (list1)
 
 #can know the type of the list
