@@ -8,5 +8,5 @@ print(x)
 #Multi-line string
 y = """I am Ruthvik Nath Bandari,
 studying at sathyabama university.
-I love driving cars."""
+I have a friend named Harshi."""
 print (y)
